@@ -53,17 +53,7 @@ Use case: Customer segmentation (`NTILE(4)`, `CUME_DIST()`).
 **Interpretation:** Divides customers into spending tiers for targeted strategies.  
 
 ---
-
- Step 5: Screenshots
-📷 Insert query execution results here, showing:  
-- Customer rankings  
-- Running totals  
-- Month-over-month growth  
-- Customer quartiles  
-
----
-
-Step 6: Results Analysis
+Step5: Results Analysis
 **Descriptive – What happened?**  
 A small group of customers contributed the majority of revenue. Sales generally grew but showed occasional monthly declines.  
 
@@ -74,8 +64,7 @@ High-value customers and premium products drove revenue. Fluctuations were cause
 Focus on retaining high-value customers, expand loyalty programs for mid-tier clients, and introduce promotions in low-demand periods to stabilize revenue.  
 
 ---
-
-Step 7: References
+Step 6: References
 1. PostgreSQL Documentation – Window Functions  
 2. SQL Server Documentation – Ranking Functions
 3. TutorialsPoint – Advanced SQL Queries   
